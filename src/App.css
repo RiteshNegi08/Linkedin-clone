@@ -1,0 +1,19 @@
+.App {
+  min-height: 100vh;
+  background: #f3f2ef;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+* {
+  box-sizing: border-box;
+}
