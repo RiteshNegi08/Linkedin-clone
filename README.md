@@ -61,6 +61,14 @@ npm run build
 
 This generates a production-ready build in the `build` folder.
 
+## Deploy to GitHub Pages
+
+The `main` branch is deployed automatically to GitHub Pages by the workflow in
+`.github/workflows/deploy.yml`, which configures Pages and publishes the app on
+each push to `main`:
+
+https://riteshnegi08.github.io/Linkedin-clone/
+
 ## Notes
 
 - The project was cleaned up to remove default CRA boilerplate and unused assets.
